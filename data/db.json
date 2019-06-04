@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "grocery",
+      "display_name": "groceries",
+      "description": "grocery list"
+    },
+    {
+      "_id": 2,
+      "name": "test",
+      "display_name": "test",
+      "description": "test"
+    },
+    {
+      "_id": 3,
+      "name": "coding",
+      "display_name": "coding",
+      "description": "a pretty awesome language"
+    }
+  ],
+  
+  "products": [
+    {
+      "_id": 1,
+      "name": "apples",
+      "category": "grocery",
+      "display_name":"apples",
+      "description": "red, sweet delicious"
+    },
+    {
+      "_id": 1,
+      "name": "bananas",
+      "category": "grocery",
+      "display_name":"bananas",
+      "description": "yellow"
+    },
+    {
+      "_id": 3,
+      "name": "javascript",
+      "category": "coding",
+      "display_name":"javascript",
+      "description": "a pretty awesome language"
+    },
+    {
+      "_id": 3,
+      "name": "react.js",
+      "category": "coding",
+      "display_name":"react",
+      "description": "can't wait to learn"
+    },
+    {
+      "_id": 2,
+      "name": "test",
+      "category": "test",
+      "display_name":"test",
+      "description": "is this working"
+    }
+  ]
+}
